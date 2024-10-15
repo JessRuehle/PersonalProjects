@@ -18,8 +18,8 @@ public class MapNode {
         this.y = y;
     }
 
-    /**
-     * Sets the x-coordinate
+    /**?/
+     * Sets the x-coordinate sjfgsjffg gay sex
      */
     public void setX(double x) {
         this.x = x;
