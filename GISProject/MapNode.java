@@ -1,6 +1,6 @@
 /**
  * Class to represent a point on a map and its associated data.
- * 
+ * hegf
  * @author Brendan MacCoy
  */
 
